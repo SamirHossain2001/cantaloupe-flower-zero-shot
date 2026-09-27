@@ -1,0 +1,20 @@
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/notebooks/
+!/assets/
+
+/notebooks/*
+!/notebooks/*.ipynb
+.ipynb_checkpoints/
+
+/outputs/
+*.csv
+*.txt
+
+/Cantaloupe flower datasets/
+/venv/
+/smoke_work/
+/tools/
+/dataset_inspection/
